@@ -1,0 +1,51 @@
+text,category
+"I was charged twice for my subscription this month",Billing
+"My invoice shows an incorrect amount please fix it",Billing
+"I want a refund for the payment I made yesterday",Billing
+"Can you explain the charges on my last bill",Billing
+"My credit card was declined during checkout",Billing
+"I need to update my payment method",Billing
+"Why was I billed after I cancelled my plan",Billing
+"The subscription price increased without notice",Billing
+"I did not receive my invoice for last month",Billing
+"Please cancel my auto-renewal and refund the last charge",Billing
+"The app crashes every time I try to log in",Technical
+"I am getting a 500 error when uploading files",Technical
+"The website is not loading on my browser",Technical
+"My data did not sync across devices",Technical
+"The mobile app freezes on the home screen",Technical
+"I cannot connect to the server, it keeps timing out",Technical
+"There is a bug in the search feature",Technical
+"The dashboard is showing incorrect analytics data",Technical
+"API requests are returning error code 403",Technical
+"The system is extremely slow today",Technical
+"I forgot my password and cannot reset it",Account
+"I cannot log into my account",Account
+"How do I change my email address on file",Account
+"My account got locked after multiple login attempts",Account
+"I want to delete my account permanently",Account
+"Someone else may have accessed my account",Account
+"I need to update my profile information",Account
+"How do I enable two-factor authentication",Account
+"My username was changed without my permission",Account
+"I did not receive the verification email",Account
+"What are your business hours",General
+"Do you offer discounts for annual plans",General
+"How can I contact customer support",General
+"Where can I find your privacy policy",General
+"Do you have a mobile app available",General
+"What payment methods do you accept",General
+"Can I upgrade my plan at any time",General
+"Is there a free trial available",General
+"How do I provide feedback about your service",General
+"What is included in the premium plan",General
+"I was charged an extra fee I do not recognize",Billing
+"The payment gateway keeps failing",Technical
+"I can't reset my password, the link is broken",Account
+"Do you support integrations with third party tools",General
+"My last two invoices have the wrong tax amount",Billing
+"The page keeps throwing a JavaScript error",Technical
+"I need help verifying my identity on my account",Account
+"What is your cancellation policy",General
+"I was double billed for the annual subscription",Billing
+"Server keeps returning 502 bad gateway",Technical
